@@ -26,7 +26,7 @@ public class Login extends Thread {
 	public boolean running;
 	private String text;
 	
-//jaklsdfjioasijdfojaldfjioadfsjklaöjfklads
+//test2
 	public Login(String name) throws JSONException {
 		this.jsonobj = new JSONObject();
 		running = true;
